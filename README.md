@@ -15,7 +15,7 @@ I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer
 
 - 👨‍💻 I’m passionate about **Web Development, Artificial Intelligence, and Data Science**.
 - 🌱 Currently learning **ReactJS, React Native**, and diving deeper into **MongoDB**.
-- 💼 I have created projects like a **smartphone recommendation system** and a **full-stack notes application**.
+- 💼 I have created projects like a **smartphone recommendation system** , a **full-stack notes application** and **Pokedex** in React-Native App and ReactJs Web using APIs.
 - ✨ My idols include **Subhash Chandra Bose**, **Shivaji Maharaj**, and **Virat Kohli**.
 - 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/s-asthanaji/) or [Email](mailto:shashank.asthana05@gmail.com).
 

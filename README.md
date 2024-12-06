@@ -1,4 +1,4 @@
-# Jai Shree Ram, I'm Shashank Asthana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Shashank Asthana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/s-asthanaji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-asthana" height="30" width="40" /></a>
 &nbsp;
 <a href="mailto:shashank.asthana05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shashank-email" height="30" width="40" /></a>

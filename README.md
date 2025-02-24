@@ -53,5 +53,5 @@ I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer
 
 <br/>
 
-
+![Dynamic Stats](https://github.com/githubusername/githubusername/blob/dsaStats/dsa-stats.svg)
 <i>Thanks for stopping by! Feel free to connect if you’re into tech, coding, or meaningful conversations.</i>

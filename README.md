@@ -12,11 +12,6 @@ I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer
 <br/>
 
 ### Talking about me:
-
-- 👨‍💻 I’m passionate about **Web Development, Artificial Intelligence, and Data Science**.
-- 🌱 Currently learning **ReactJS, React Native**, and diving deeper into **MongoDB**.
-- 💼 I have created projects like a **smartphone recommendation system** , a **full-stack notes application** and **Pokedex** in React-Native App and ReactJs Web using APIs.
-- ✨ My idols include **Subhash Chandra Bose**, **Shivaji Maharaj**, and **Virat Kohli**.
 - 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/s-asthanaji/) or [Email](mailto:shashank.asthana05@gmail.com).
 
 <br/>
@@ -25,7 +20,7 @@ I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+<!--     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a> -->
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -34,9 +29,9 @@ I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+<!--     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a> -->
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<!--     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a> -->
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>

@@ -7,7 +7,7 @@
 <br/>
 
 ## Glad to see you here!
-I am a pre-final year B.Tech student at VIT Bhopal University, pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (GPA: 9.11). I thrive on challenges, turning ideas into functional projects, and continuously expanding my knowledge base.
+I am a final year B.Tech student at VIT Bhopal University, pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (GPA: 9.01). I thrive on challenges, turning ideas into functional projects, and continuously expanding my knowledge base.
 
 <br/>
 

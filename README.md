@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shashank.asthana05@gmail.com**
 
-- ⚡ Fun fact **I think the modt important part of programming is not coding and language but the ideation and time availabilty for it**
+- ⚡ Fun fact **I think the most important part of programming is not coding and language but the ideation and time availabilty for it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
